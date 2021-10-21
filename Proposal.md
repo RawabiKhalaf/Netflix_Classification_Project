@@ -1,4 +1,4 @@
-# Netflix Rating Classification Model
+# Netflix Awarded Movies/Series Classification Model
 * Tarfah Alabbad
 * Rawabi Alharbi
 
