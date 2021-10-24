@@ -15,8 +15,8 @@ Using the data provided by Netflix, we are going to build a classification model
 The data that will be used in this project has been downloaded from Kaggle (https://www.kaggle.com/ashishgup/netflix-rotten-tomatoes-metacritic-imdb?select=netflix-rotten-tomatoes-metacritic-imdb.csv). It includes 29 features such as: (Title, Gener, Director, etc.) for each Movie/Series.
 
 # Algorithm
-We are going to build different classification models, then we will choose the best model based on the classification metrics that we are going to ues. Some feature engineering will be done to enhance the performance of the models.
+We are going to build different classification models, then we will choose the best model based on the classification metrics that we are going to use. Some feature engineering will be done to enhance the performance of the models.
 
 # Tools
 * Technologies: Python, Jupyter notebook.
-* Libraries: NumPy, Pandas, Matplotlib, Seaborn, Tableau Sklearn
+* Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau.
