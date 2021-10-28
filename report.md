@@ -1,4 +1,4 @@
-# Netflix Classification model!
+# Netflix Awarded Movies/Series Classification Model
 By: Rawabi Alharbi, Tarfah Alabbad
 
 ## Abstract
