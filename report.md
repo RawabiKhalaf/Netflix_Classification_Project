@@ -14,7 +14,7 @@ In this project we used the data from kaggle on https://www.kaggle.com/ashishgup
 * +15k rows
 
 ## Algorithms
-we’ve done the data cleaning and removing the nulls and we did some feature engineering by creating new columns, also we transformed the categorical features into label encoder then we split our data and created our baseline model witch was KNN then we wanted to improve the model, we used decision trees and random forest and xgboosted classifier and ensemble stacking and we found that random forest has the best F1 score since it’s our chosen metric because we want to find the tradeoff between recall and precession, then we deployed our model using flask![image](https://user-images.githubusercontent.com/87195262/139236733-d7d7695a-b02e-4d09-b010-76a6bbee0421.png)
+we’ve done the data cleaning and removing the nulls and we did some feature engineering by creating new columns, also we transformed the categorical features into label encoder then we split our data and created our baseline model witch was KNN then we wanted to improve the model, we used decision trees and random forest and xgboosted classifier and ensemble stacking and we found that random forest has the best F1 score since it’s our chosen metric because we want to find the tradeoff between recall and precession, then we deployed our model using flask.
 
 
 ## Tools
