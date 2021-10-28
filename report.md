@@ -25,6 +25,6 @@ we’ve done the data cleaning and removing the nulls and we did some feature en
 - HTML/CSS and Flask for the web app
 
 ## Communication
-•	In addition to the slides and visuals presented, I will be sharing my work on my github account
-•	https://github.com/Tarfah98
-•	https://github.com/RawabiKhalaf
+In addition to the slides and visuals presented, I will be sharing my work on my github account
+* https://github.com/Tarfah98
+* https://github.com/RawabiKhalaf
