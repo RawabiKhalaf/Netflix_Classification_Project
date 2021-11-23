@@ -23,5 +23,4 @@ we’ve done the data cleaning and removing the nulls and we did some feature en
 
 ## Communication
 In addition to the slides and visuals presented, we will share our work on our github accounts
-* https://github.com/Tarfah98
-* https://github.com/RawabiKhalaf
+* https://github.com/RawabiKhalaf/Source_code.ipynb
