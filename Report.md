@@ -23,4 +23,4 @@ we’ve done the data cleaning and removing the nulls and we did some feature en
 
 ## Communication
 In addition to the slides and visuals presented, we will share our work on our github accounts
-* https://github.com/RawabiKhalaf/Source_code.ipynb
+* https://github.com/RawabiKhalaf/netflix-awarded-movies-series-classification/edit/main/Source_code.ipynb
